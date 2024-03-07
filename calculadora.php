@@ -29,6 +29,7 @@ if ($operador == "somar") {
 }else {
     $resultado = $numero1 / $numero2;
 };
+'teste';
 
 
 ?>
